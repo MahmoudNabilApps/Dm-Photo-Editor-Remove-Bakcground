@@ -1,0 +1,7 @@
+flask
+onnxruntime
+opencv-python
+pillow
+requests
+werkzeug
+numpy
